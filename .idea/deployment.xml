@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="172.32.0.14" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="172.22.22.54">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/hurunyi/BERT_SCORE" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="172.32.0.14">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/hurunyi/bert_score" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
